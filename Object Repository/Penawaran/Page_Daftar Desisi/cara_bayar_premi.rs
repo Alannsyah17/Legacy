@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cara_bayar_premi</name>
+   <tag></tag>
+   <elementGuidId>62a326d8-4a27-4437-970e-91b086faddf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;cara_bayar_premi&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='cara_bayar_premi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e13689ac-7eb5-4847-9045-871275f297b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cara_bayar_premi</value>
+      <webElementGuid>0be5160b-f7e7-4e2f-89e0-fa546f43e222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>					  
+					  Silahkan Pilih					
+					  BULANAN					  
+					  KUARTALAN					  
+					  SEMESTERAN				
+					  TAHUNAN					  
+					  SEKALIGUS					  
+					</value>
+      <webElementGuid>49f23515-5888-43ad-83d6-a1ac4c83a72c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_form1&quot;)/table[@class=&quot;table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[32]/td[3]/select[1]</value>
+      <webElementGuid>6269accc-775b-4b6d-ad2a-efe7737dc077</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='cara_bayar_premi']</value>
+      <webElementGuid>7355d0e9-fc44-4768-8fc8-c483f8ebfa12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='id_form1']/table/tbody/tr[32]/td[3]/select</value>
+      <webElementGuid>2c817efd-0b55-4a9d-acb2-f6c03833d245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARA BAYAR PREMI'])[1]/following::select[1]</value>
+      <webElementGuid>56f363d6-03f9-4b85-bb0e-10490a46abc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEMBENTUK PREMI BERKALA SAVINGPLAN'])[1]/following::select[2]</value>
+      <webElementGuid>82778dfd-8683-46fb-aff4-dadf57667b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASUMSI KENAIKAN GAJI TAHUNAN'])[1]/preceding::select[1]</value>
+      <webElementGuid>c642fe33-f30b-40fd-98ff-6d4e15b8a861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/preceding::select[1]</value>
+      <webElementGuid>3b3cc7a0-37cf-47bb-bfd5-fd178455b415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[32]/td[3]/select</value>
+      <webElementGuid>fe99504c-cca4-4c35-b8ca-1f90a910d569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'cara_bayar_premi' and (text() = '					  
+					  Silahkan Pilih					
+					  BULANAN					  
+					  KUARTALAN					  
+					  SEMESTERAN				
+					  TAHUNAN					  
+					  SEKALIGUS					  
+					' or . = '					  
+					  Silahkan Pilih					
+					  BULANAN					  
+					  KUARTALAN					  
+					  SEMESTERAN				
+					  TAHUNAN					  
+					  SEKALIGUS					  
+					')]</value>
+      <webElementGuid>cfb6780d-1d54-41d4-ba75-de7283ec45c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

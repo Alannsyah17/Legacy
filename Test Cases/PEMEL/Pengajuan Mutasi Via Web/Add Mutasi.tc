@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Mutasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>431c6c69-7c85-44f2-9d03-91c743d94c00</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4506a86e-6728-4405-9ab7-de9223710181</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6e3c5f26-38ec-452d-a1b0-fad27ed38bec</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>946c7cb4-844a-42a6-966d-9e8e84656cd0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4506a86e-6728-4405-9ab7-de9223710181</id>
+      <masked>false</masked>
+      <name>no_polis</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e3c5f26-38ec-452d-a1b0-fad27ed38bec</id>
+      <masked>false</masked>
+      <name>nama_mutasi</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>946c7cb4-844a-42a6-966d-9e8e84656cd0</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
